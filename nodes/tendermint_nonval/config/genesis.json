@@ -1,0 +1,31 @@
+{
+  "genesis_time": "2018-06-13T16:47:55.5229212+02:00",
+  "chain_id": "test-chain-7ZYF21",
+  "validators": [
+	{
+		"pub_key": {
+		  "type": "AC26791624DE60",
+		  "value": "t8izyUsDJon35j2K9jjbwI/zqmb1WW3hf+jQ5x3Vvoo="
+		},
+		"power": 10,
+		"name": ""
+	},
+	{
+		"pub_key": {
+		  "type": "AC26791624DE60",
+		  "value": "pZv+MgP7NBYGTvnwlcji8QHFvh52cLSCmyJr3Xvlf3I="
+	  },
+	   "power": 10,
+	   "name": ""
+	},
+	{
+		"pub_key": {
+		"type": "AC26791624DE60",
+		"value": "gR550boSMpK3Yk+KXZTQ5GEKKTdvRPgTdJSvOy6Q8Xg="
+	  },
+	  "power": 10,
+	  "name": ""
+	}
+  ],
+  "app_hash": ""
+}
